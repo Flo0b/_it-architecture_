@@ -1,0 +1,22 @@
+{
+  "name": "soap-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Flo0b/_it-architecture_.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "soap": "^0.31.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
